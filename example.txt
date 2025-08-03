@@ -1,2 +1,2 @@
-welcome from feature-1 and welcome main
+welcome from feature-1
 
